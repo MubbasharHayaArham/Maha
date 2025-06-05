@@ -5,9 +5,8 @@
 This version creates a real-time candlestick dashboard using TradingView charts.
 
 ### 🚀 How to Deploy
-1. Unzip this folder.
-2. Upload all files to your GitHub repo (replace old content).
-3. Go to [vercel.com](https://vercel.com), import the GitHub repo, and deploy.
+1. Upload these files directly into your GitHub repo (do not nest in any subfolder).
+2. Go to [vercel.com](https://vercel.com), import the GitHub repo, and deploy.
 
 ### ✅ Dependencies
 - next@14.1.0
