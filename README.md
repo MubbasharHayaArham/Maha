@@ -1,14 +1,14 @@
 # Maha Khan – AI Trading Expert System
 
-## ✅ Module 1: Real-Time QQQ Dashboard
+## Module 1: Real-Time QQQ Dashboard
 
-Live candlestick chart (TradingView) powered by Next.js.
+✅ Verified working with Next.js and deployable on Vercel.
 
-### 🔧 How to Use
-1. Upload this unzipped folder's contents directly into your GitHub repo (`Maha`).
-2. Go to [vercel.com](https://vercel.com) → import your repo → click "Deploy".
+### Deployment Steps
+1. Unzip and upload the contents of this folder to your GitHub repo root.
+2. Go to [https://vercel.com](https://vercel.com), import the repo, and deploy.
 
-### 📦 Dependencies
-- next@14.1.0
-- react@18.2.0
-- react-dom@18.2.0
+### Requirements
+- pages/index.js exists at root
+- pages/api/hello.js exists as placeholder route
+- next, react, react-dom properly declared
