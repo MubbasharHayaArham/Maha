@@ -1,26 +1,16 @@
-# Maha Khan – AI Trading Expert System
+# Maha Khan – QQQ Real-Time Dashboard
 
-## ✅ Module 1: Real-Time QQQ Dashboard
+This is a Vercel-ready deployment package for your live trading dashboard.
 
-This module sets up the base for your live QQQ options trading system.
+## ✅ How to Deploy
+1. Unzip this file
+2. Upload everything (not the folder) to your GitHub repo root
+3. Go to Vercel → Import Repo → DO NOT change "Install Command"
+   - Use: `npm install`
+4. Click **Deploy**
 
-### Features
-- ✅ Real-time 5-min candlestick chart (TradingView)
-- ✅ Clean dashboard layout (light mode)
-- ✅ Ready for additional module tabs and logic
-- ✅ Vercel deployment–ready
-
-### Deployment Steps
-1. Upload contents of this folder into your GitHub repo root.
-2. Go to [vercel.com](https://vercel.com) → Import → Deploy.
-
-### Project Structure
-- pages/index.js ✅
-- pages/api/hello.js ✅
-- styles/globals.css ✅
-- package.json ✅
-
-### Dependencies
-- next@14.1.0
-- react@18.2.0
-- react-dom@18.2.0
+## Included
+- `pages/index.js` — full-featured real-time QQQ chart
+- `pages/api/hello.js` — working API route
+- `styles/globals.css` — styling placeholder
+- `package.json` — no install script error
